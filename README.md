@@ -44,11 +44,11 @@ A simple image-text recognition project with a front-end component
 
 ## 示例效果
 
-[!image](/readme_pic/image.png)
+[!image](/ocr/readme_pic/image.png)
 
 先点击预处理，再进行ocr识别。可以选择保存结果，清空后可再次导入。
 
-[!image](/readme_pic/image-1.png)
+[!image](/ocr/readme_pic/image-1.png)
 
 ## 联系方式
 
