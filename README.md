@@ -1,6 +1,6 @@
 # OCR 图像文字识别系统
-A simple image-text recognition project with a front-end component
-基于 Python + OpenCV + Tesseract 的图像文字识别系统，支持图像预处理、文字识别与图形用户界面操作。
+- A simple image-text recognition project with a front-end component
+- 基于 Python + OpenCV + Tesseract 的图像文字识别系统，支持图像预处理、文字识别与图形用户界面操作。
 
 ## 项目介绍
 
